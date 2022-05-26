@@ -221,3 +221,14 @@ aside {
              height: 1px;
              background-color: #1B6DA9;
          }
+@media screen and (max-width: 1240px) 
+{
+ .container__footer{
+     height: 90vh;
+   }
+
+aside {
+    height: 140vh;
+}
+
+}
